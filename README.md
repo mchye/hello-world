@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Changes make the world safer
